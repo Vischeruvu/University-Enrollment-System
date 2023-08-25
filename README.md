@@ -1,22 +1,11 @@
-# University Enrollment System
-Procedural Programming concepts with C++ first project of the first year.
+# Student-Management-System
+***** IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US *****  
 
-#### Scenario 
 
-UMS - University management system with many features which helps to keep records of available students, courses, examinations, etc.
-Some of the functionalities are Online Student Admission/Registration, Separate User ID and Password Generation, Online Admission Card Generation, Capability of Managing Courses and Subjects, Online Examination, Online Result, Online Payment Collection, Learning Management System.
-Managing student information in a correct way is the biggest challenge Universities face.
+***** LEAVE A COMMENT IF YOU LOVED OUR WORK *****
 
-You have been hired as one of the software developer to develop the above system. The system development happens as an incremental delivery and the first version is to develop the online student registration.
-This assignment concerns to develop only the functionalities given below.
 
-* Add students to the system with their student IDs, first names, surnames, addresses, contact
-numbers, courses and the ages
-* Update student details (Only the selected details)
-* Display student details
-* Search the student details with student id
-* Search the student list enrolled for a given course
-* Delete a student record (if necessary)
+***** FOR MORE PROJECTS :- https://www.youtube.com/channel/UCBq-TYj2qdyAGqb9QWs3OQg *****
 
-The expectation of the university administration is a menu driven application which satisfies all the above requirements.
-A procedural programming solution was proposed and C++ was chosen as the programming language.
+
+THANK YOU FOR DOWNLOADING :) 
